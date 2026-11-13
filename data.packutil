@@ -2,7 +2,7 @@
 baseurl = ""
 built_for = "1.1.1"
 conf_version = 1
-generated_at = 1794603211890
+generated_at = 1794603618585
 
 [resources]
 "addonslib-forge-1.20.1-1.11.jar" = { size = 132310, checksum = "112ea7d9e4e1e5a725853a8ce98beb54" }
@@ -72,6 +72,7 @@ generated_at = 1794603211890
 "jei-1.20.1-forge-15.56.0.205.jar" = { size = 1778129, checksum = "44bb8a6e9634ca96bfab19e515db3318" }
 "Kambrik-6.1.1+1.20.1-forge.jar" = { size = 325546, checksum = "5cb26d3e599145ca834e736f64dcd363" }
 "kotlinforforge-4.12.0-all.jar" = { size = 7442998, checksum = "d6a40dede74edbe646b34a1bafd53b4d" }
+"limbloss-forge-2.3.3-1.20.1.jar" = { size = 69621, checksum = "8cecf6cf57f4cd6a8d9a0011b3358905" }
 "lithostitched-forge-1.20.1-1.4.11.jar" = { size = 476347, checksum = "3c596bbc1b5f769f22be751e9c21a6c8" }
 "lootr-forge-1.20-0.7.35.94.jar" = { size = 463485, checksum = "56dd6966de4ba641cf00ef5b9ce8d2d7" }
 "mcw-bridges-3.1.2-mc1.20.1forge.jar" = { size = 693579, checksum = "78af63fce71f5739ed3595012880d502" }
